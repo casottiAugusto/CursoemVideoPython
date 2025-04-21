@@ -1,0 +1,5 @@
+dia=input('Informe o dia do seu nascimento')
+mes=input('Informe o med de nascimento')
+ano=input('Informe o ano de nascimento')
+nome=input('Informe o seu nome ')
+print('Ola',nome,'O seu nascimento é ',dia,mes,ano)

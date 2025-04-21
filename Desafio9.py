@@ -1,0 +1,1 @@
+#faça um programa que leia o numero e faça a tabuade dele

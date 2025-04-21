@@ -1,0 +1,1 @@
+#Faça um programa que leia o numeroe mostre seu antecerssor e sucessor

@@ -1,0 +1,1 @@
+#faça um algoritomo que leia o preço de um produto e mostre o acressimo de 5 %

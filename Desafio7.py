@@ -1,0 +1,1 @@
+#faça um programa que que leia as duas notas e mostre a media

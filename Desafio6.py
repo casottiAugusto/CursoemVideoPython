@@ -1,0 +1,1 @@
+#faça um  scriptque leia o numero  e mostre seu dobro triplo e rais quadrada
